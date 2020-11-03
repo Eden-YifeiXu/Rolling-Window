@@ -1,7 +1,7 @@
 # Rolling-Window
 
 Attached is a file(GOOG.csv) containing historical stock prices over a one-year period. With the data, compute a rolling window of statistics. Statistics would include the following:</p>
-  Range: max - min</p>
+  <br><br>Range: max - min</p>
   Mean: average</p>
   Median: 50th percentile</p>
   Standard Deviation: standard deviation</p>
