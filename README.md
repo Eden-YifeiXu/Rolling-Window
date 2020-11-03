@@ -1,13 +1,13 @@
 # Rolling-Window
 
-Attached is a file(GOOG.csv) containing historical stock prices over a one-year period. With the data, compute a rolling window of statistics. Statistics would include the following:
+Attached is a file(GOOG.csv) containing historical stock prices over a one-year period. With the data, compute a rolling window of statistics. Statistics would include the following:</p>
   Range: max - min</p>
-  Mean: average</n>
-  Median: 50th percentile</n>
-  Standard Deviation: standard deviation
+  Mean: average</p>
+  Median: 50th percentile</p>
+  Standard Deviation: standard deviation</p>
   
-Write a Python computer program to do the following:
-  From the user, input the rolling window size. For instance, inputting 5 would yield a weekly window, while inputting a 20 is a monthly window, etc. Make sure that the input is           valid. For instance, if a user inputs 400, this would be impossible because not enough data exists.
-  Over the rolling window, compute statistics mentioned above.
-  plot the rolling statistics.
+Write a Python computer program to do the following:</p>
+  From the user, input the rolling window size. For instance, inputting 5 would yield a weekly window, while inputting a 20 is a monthly window, etc. Make sure that the input is           valid. For instance, if a user inputs 400, this would be impossible because not enough data exists.</p>
+  Over the rolling window, compute statistics mentioned above.</p>
+  plot the rolling statistics.</p>
 
