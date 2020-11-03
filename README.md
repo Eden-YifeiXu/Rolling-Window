@@ -5,7 +5,7 @@ Attached is a file(GOOG.csv) containing historical stock prices over a one-year 
   <pre>Range: max - min</p>
   Mean: average</p>
   Median: 50th percentile</p>
-  Standard Deviation: standard deviation</p>
+  Standard Deviation: standard deviation</p></pre>
   
 Write a Python computer program to do the following:
 <br>
